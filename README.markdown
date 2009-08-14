@@ -2,6 +2,25 @@
 
 Ruby wrapper for the Billboard charts API. Great for cheating at trivia games.
 
+## Installation
+
+    sudo gem install billboard
+    
+## Usage
+    
+    api_key = 'OU812' # get yours at http://developer.billboard.com/apps/register
+    client = Billboard::Client.new(api_key)
+    
+### Find a chart by type
+
+    charts = client.chart_specs(:type => 'Videos').charts
+    
+### Find items on a chart
+
+    items = client.search(:id => charts.last.id).chart_items
+    items.last.song = "Lost: The Complete Third Season"
+    items.last.weeks_on = 21
+
 ## Note on Patches/Pull Requests
  
 * Fork the project.

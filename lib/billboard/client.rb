@@ -68,7 +68,7 @@ module Billboard
       results
     end
     
-    private
+    protected
     
       def default_options
         {:api_key => @api_key, :format => 'json'}
