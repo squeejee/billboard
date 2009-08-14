@@ -1,0 +1,143 @@
+{
+    "chart": {
+        "issueDate": "2006-03-04",
+        "description": "Chart",
+        "chartItems": {
+            "firstPosition": 1,
+            "totalReturned": 10,
+            "totalRecords": 25,
+            "chartItem": [{
+                "peak": 1,
+                "artistName": "Luther Vandross",
+                "catalogNo": "66068",
+                "rank": 1,
+                "exrank": 6,
+                "distribution": "Sony Music",
+                "promotion": "Legacy\/Epic",
+                "song": "Greatest Hits",
+                "weeksOn": 95,
+                "albumId": 391812,
+                "artistId": 5945
+            },
+            {
+                "peak": 1,
+                "artistName": "50 Cent",
+                "catalogNo": "493544*",
+                "rank": 2,
+                "exrank": 2,
+                "distribution": "Interscope",
+                "promotion": "Shady\/Aftermath",
+                "song": "Get Rich Or Die Tryin'",
+                "weeksOn": 159,
+                "albumId": 567925,
+                "artistId": 340706
+            },
+            {
+                "peak": 1,
+                "artistName": "Stevie Wonder",
+                "catalogNo": "066164",
+                "rank": 3,
+                "exrank": 1,
+                "distribution": "UMe",
+                "promotion": "Motown\/UTV",
+                "song": "The Definitive Collection",
+                "weeksOn": 110,
+                "albumId": 555471,
+                "artistId": 116778
+            },
+            {
+                "peak": 4,
+                "artistName": "Mary J. Blige",
+                "catalogNo": "111156*",
+                "rank": 4,
+                "exrank": 11,
+                "distribution": "Interscope",
+                "promotion": "MCA\/Geffen",
+                "song": "My Life",
+                "weeksOn": 220,
+                "albumId": 158889,
+                "artistId": 43746
+            },
+            {
+                "peak": 1,
+                "artistName": "Al Green",
+                "catalogNo": "30800",
+                "rank": 5,
+                "exrank": 8,
+                "distribution": "Capitol",
+                "promotion": "HI\/The Right Stuff",
+                "song": "Greatest Hits",
+                "weeksOn": 544,
+                "albumId": 33150,
+                "artistId": 4749
+            },
+            {
+                "peak": 1,
+                "artistName": "Beyonce",
+                "catalogNo": "86386*",
+                "rank": 6,
+                "exrank": 4,
+                "distribution": "Sony Music",
+                "promotion": "Columbia",
+                "song": "Dangerously In Love",
+                "weeksOn": 36,
+                "albumId": 583221,
+                "artistId": 317670
+            },
+            {
+                "peak": 3,
+                "artistName": "Keith Sweat",
+                "catalogNo": "73954",
+                "rank": 7,
+                "exrank": 3,
+                "distribution": "Rhino",
+                "promotion": "Elektra",
+                "song": "The Best Of Keith Sweat: Make You Sweat",
+                "weeksOn": 6,
+                "albumId": 615746,
+                "artistId": 5795
+            },
+            {
+                "peak": 1,
+                "artistName": "2Pac",
+                "catalogNo": "490301*",
+                "rank": 8,
+                "exrank": 12,
+                "distribution": "Interscope",
+                "promotion": "Amaru\/Death Row",
+                "song": "Greatest Hits",
+                "weeksOn": 374,
+                "albumId": 330080,
+                "artistId": 37157
+            },
+            {
+                "peak": 1,
+                "artistName": "Jaheim",
+                "catalogNo": "47452*",
+                "rank": 9,
+                "exrank": 20,
+                "distribution": "Warner Bros.",
+                "promotion": "Divine Mill",
+                "song": "[Ghetto Love]",
+                "weeksOn": 183,
+                "albumId": 463407,
+                "artistId": 422032
+            },
+            {
+                "peak": 1,
+                "artistName": "Sade",
+                "catalogNo": "85287",
+                "rank": 10,
+                "exrank": 21,
+                "distribution": "Sony Music",
+                "promotion": "Epic",
+                "song": "The Best Of Sade",
+                "weeksOn": 493,
+                "albumId": 158822,
+                "artistId": 5590
+            }]
+        },
+        "name": "Top R&B\/Hip-Hop Catalog Albums",
+        "id": 3064446
+    }
+}

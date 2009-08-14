@@ -1,0 +1,905 @@
+{
+    "searchResults": {
+        "firstPosition": 1,
+        "totalReturned": 50,
+        "totalRecords": 927,
+        "chartItem": [{
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 17,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-01-03",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076296
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981029
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 9,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-01-10",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076297
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981054
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 9,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-01-17",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076298
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981085
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 7,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-01-24",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076299
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981114
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 3,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-01-31",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076300
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981143
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 3,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-02-07",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076301
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981177
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 10,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-02-14",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076302
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981220
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 12,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-02-21",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076303
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981254
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 13,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-02-28",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076304
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981286
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0281",
+            "rank": 30,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-03-07",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076305
+            },
+            "song": "Brown Eyed Handsome Man",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8981322
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 56,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-08-29",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076330
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982010
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 35,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-09-05",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076331
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982041
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 20,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-09-12",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076332
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982069
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 15,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-09-19",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076333
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982099
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 10,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-09-26",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076334
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982127
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 7,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-03",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076335
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982158
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 6,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-10",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076336
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982192
+        },
+        {
+            "peak": 94,
+            "catalogNo": "9885",
+            "rank": 94,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-17",
+                "specId": 379,
+                "name": "The Billboard Hot 100",
+                "id": 3070596
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 1,
+            "id": 8841424
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 5,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-17",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076337
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982225
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 5,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-24",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076338
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982259
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 5,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-10-31",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076339
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982291
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 11,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-11-07",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076340
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982329
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 12,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-11-14",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076341
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982364
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 15,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-11-21",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076342
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982399
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 23,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-11-28",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076343
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982438
+        },
+        {
+            "peak": 5,
+            "catalogNo": "9885",
+            "rank": 34,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1970-12-05",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076344
+            },
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 15,
+            "id": 8982470
+        },
+        {
+            "peak": 0,
+            "rank": 24,
+            "exrank": 0,
+            "chart": {
+                "specType": "Year-end Albums",
+                "issueDate": "1970-12-31",
+                "specId": 413,
+                "name": "Top Country Albums",
+                "id": 3068375
+            },
+            "promotion": "RCA",
+            "song": "Waylon",
+            "artist": "Waylon Jennings",
+            "weeksOn": 0,
+            "id": 8702202
+        },
+        {
+            "peak": 0,
+            "rank": 34,
+            "exrank": 0,
+            "chart": {
+                "specType": "Year-end Singles",
+                "issueDate": "1970-12-31",
+                "specId": 414,
+                "name": "Hot Country Songs",
+                "id": 3068437
+            },
+            "promotion": "RCA Victor",
+            "song": "The Taker",
+            "artist": "Waylon Jennings",
+            "weeksOn": 0,
+            "id": 8705515
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 75,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-01-08",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076401
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984102
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 47,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-01-15",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076402
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984126
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 39,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-01-22",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076403
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984150
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 22,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-01-29",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076404
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984168
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 19,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-02-05",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076405
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984192
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 12,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-02-12",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076406
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984214
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 8,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-02-19",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076407
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984236
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 5,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-02-26",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076408
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984256
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 4,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-03-04",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076409
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984280
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 3,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-03-11",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076410
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984303
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 5,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-03-18",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076411
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984333
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 6,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-03-25",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076412
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984364
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 10,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-04-01",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076413
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984397
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 17,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-04-08",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076414
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984428
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 22,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-04-15",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076415
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984460
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 33,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-04-22",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076416
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984494
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 40,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-04-29",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076417
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984522
+        },
+        {
+            "peak": 3,
+            "catalogNo": "0615",
+            "rank": 45,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-05-06",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076418
+            },
+            "song": "Good Hearted Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 18,
+            "id": 8984551
+        },
+        {
+            "peak": 7,
+            "catalogNo": "0716",
+            "rank": 41,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-06-10",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076423
+            },
+            "song": "Sweet Dream Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 13,
+            "id": 8984704
+        },
+        {
+            "peak": 7,
+            "catalogNo": "0716",
+            "rank": 36,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-06-17",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076424
+            },
+            "song": "Sweet Dream Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 13,
+            "id": 8984734
+        },
+        {
+            "peak": 7,
+            "catalogNo": "0716",
+            "rank": 31,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-06-24",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076425
+            },
+            "song": "Sweet Dream Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 13,
+            "id": 8984759
+        },
+        {
+            "peak": 7,
+            "catalogNo": "0716",
+            "rank": 15,
+            "exrank": 0,
+            "distribution": "RCA Victor",
+            "chart": {
+                "specType": "Singles",
+                "issueDate": "1972-07-01",
+                "specId": 357,
+                "name": "Hot Country Songs",
+                "id": 3076426
+            },
+            "song": "Sweet Dream Woman",
+            "artist": "Waylon Jennings",
+            "weeksOn": 13,
+            "id": 8984780
+        }]
+    }
+}

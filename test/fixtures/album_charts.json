@@ -1,0 +1,257 @@
+{
+    "chartSpecs": {
+        "firstPosition": 1,
+        "totalReturned": 50,
+        "chartSpec": [{
+            "type": "Albums",
+            "name": "Billboard Comprehensive Albums",
+            "id": 292
+        },
+        {
+            "type": "Albums",
+            "name": "European Top 100 Albums",
+            "id": 293
+        },
+        {
+            "type": "Albums",
+            "name": "Heatseekers",
+            "id": 294
+        },
+        {
+            "type": "Albums",
+            "name": "Latin Pop Albums",
+            "id": 295
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (East North Central)",
+            "id": 296
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (Middle Atlantic)",
+            "id": 297
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (Mountain)",
+            "id": 298
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (Northeast)",
+            "id": 299
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (Pacific)",
+            "id": 300
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (South Atlantic)",
+            "id": 301
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (South Central)",
+            "id": 302
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers (West North Central)",
+            "id": 303
+        },
+        {
+            "type": "Albums",
+            "name": "Regional Mexican Albums",
+            "id": 304
+        },
+        {
+            "type": "Albums",
+            "name": "The Billboard 200",
+            "id": 305
+        },
+        {
+            "type": "Albums",
+            "name": "The Billboard Classical 50",
+            "id": 306
+        },
+        {
+            "type": "Albums",
+            "name": "Top Bluegrass Albums",
+            "id": 307
+        },
+        {
+            "type": "Albums",
+            "name": "Top Blues Albums",
+            "id": 308
+        },
+        {
+            "type": "Albums",
+            "name": "Top Canadian Albums",
+            "id": 309
+        },
+        {
+            "type": "Albums",
+            "name": "Top Christian Albums",
+            "id": 310
+        },
+        {
+            "type": "Albums",
+            "name": "Top Classical Albums",
+            "id": 311
+        },
+        {
+            "type": "Albums",
+            "name": "Top Classical Budget Albums",
+            "id": 312
+        },
+        {
+            "type": "Albums",
+            "name": "Top Classical Crossover Albums",
+            "id": 313
+        },
+        {
+            "type": "Albums",
+            "name": "Top Classical Midline Albums",
+            "id": 314
+        },
+        {
+            "type": "Albums",
+            "name": "Top Comedy Albums",
+            "id": 315
+        },
+        {
+            "type": "Albums",
+            "name": "Top Compilation Albums",
+            "id": 316
+        },
+        {
+            "type": "Albums",
+            "name": "Top Contemporary Christian",
+            "id": 317
+        },
+        {
+            "type": "Albums",
+            "name": "Top Contemporary Jazz",
+            "id": 318
+        },
+        {
+            "type": "Albums",
+            "name": "Top Contemporary Jazz Albums",
+            "id": 319
+        },
+        {
+            "type": "Albums",
+            "name": "Top Country Albums",
+            "id": 320
+        },
+        {
+            "type": "Albums",
+            "name": "Top Country Catalog Albums",
+            "id": 321
+        },
+        {
+            "type": "Albums",
+            "name": "Top Electronic Albums",
+            "id": 322
+        },
+        {
+            "type": "Albums",
+            "name": "Top Gospel Albums",
+            "id": 323
+        },
+        {
+            "type": "Albums",
+            "name": "Top Heatseekers",
+            "id": 324
+        },
+        {
+            "type": "Albums",
+            "name": "Top Holiday Albums",
+            "id": 325
+        },
+        {
+            "type": "Albums",
+            "name": "Top Independent Albums",
+            "id": 326
+        },
+        {
+            "type": "Albums",
+            "name": "Top Internet Albums",
+            "id": 327
+        },
+        {
+            "type": "Albums",
+            "name": "Top Jazz Albums",
+            "id": 328
+        },
+        {
+            "type": "Albums",
+            "name": "Top Kid Audio",
+            "id": 329
+        },
+        {
+            "type": "Albums",
+            "name": "Top Latin Albums",
+            "id": 330
+        },
+        {
+            "type": "Albums",
+            "name": "Top New Age Albums",
+            "id": 331
+        },
+        {
+            "type": "Albums",
+            "name": "Top Pop Catalog",
+            "id": 332
+        },
+        {
+            "type": "Albums",
+            "name": "Top R&B\/Hip-Hop Albums",
+            "id": 333
+        },
+        {
+            "type": "Albums",
+            "name": "Top R&B\/Hip-Hop Catalog Albums",
+            "id": 334
+        },
+        {
+            "type": "Albums",
+            "name": "Top Rap Albums",
+            "id": 335
+        },
+        {
+            "type": "Albums",
+            "name": "Top Reggae Albums",
+            "id": 336
+        },
+        {
+            "type": "Albums",
+            "name": "Top Soundtracks",
+            "id": 337
+        },
+        {
+            "type": "Albums",
+            "name": "Latin Tropical Albums",
+            "id": 338
+        },
+        {
+            "type": "Albums",
+            "name": "Top World Albums",
+            "id": 339
+        },
+        {
+            "type": "Albums",
+            "name": "Tropical\/Salsa",
+            "id": 340
+        },
+        {
+            "type": "Albums",
+            "name": "Latin Rhythm Albums",
+            "id": 399
+        }],
+        "totalRecords": 589
+    }
+}
